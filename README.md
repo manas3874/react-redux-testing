@@ -1,0 +1,1 @@
+# react-redux integration testing environment
